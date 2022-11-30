@@ -1,0 +1,3 @@
+C:/Users/evajq/CLionProjects/Embd HW/HW2/NEPerson/cmake-build-debug/CMakeFiles/NEPerson.dir
+C:/Users/evajq/CLionProjects/Embd HW/HW2/NEPerson/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/evajq/CLionProjects/Embd HW/HW2/NEPerson/cmake-build-debug/CMakeFiles/rebuild_cache.dir

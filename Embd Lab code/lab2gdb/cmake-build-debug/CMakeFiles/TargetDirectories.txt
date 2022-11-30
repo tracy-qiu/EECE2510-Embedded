@@ -1,0 +1,3 @@
+C:/Users/evajq/CLionProjects/Embd Lab/lab2gdb/cmake-build-debug/CMakeFiles/lab2gdb.dir
+C:/Users/evajq/CLionProjects/Embd Lab/lab2gdb/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/evajq/CLionProjects/Embd Lab/lab2gdb/cmake-build-debug/CMakeFiles/rebuild_cache.dir

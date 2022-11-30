@@ -1,0 +1,3 @@
+C:/Users/evajq/CLionProjects/Embd Lab/0.3SortStrings/cmake-build-debug/CMakeFiles/0_3SortStrings.dir
+C:/Users/evajq/CLionProjects/Embd Lab/0.3SortStrings/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/evajq/CLionProjects/Embd Lab/0.3SortStrings/cmake-build-debug/CMakeFiles/rebuild_cache.dir

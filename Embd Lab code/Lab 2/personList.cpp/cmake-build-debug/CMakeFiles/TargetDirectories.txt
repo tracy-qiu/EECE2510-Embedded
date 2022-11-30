@@ -1,0 +1,3 @@
+C:/Users/evajq/CLionProjects/Embd Lab/Lab 2/personList.cpp/cmake-build-debug/CMakeFiles/personList_cpp.dir
+C:/Users/evajq/CLionProjects/Embd Lab/Lab 2/personList.cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/evajq/CLionProjects/Embd Lab/Lab 2/personList.cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

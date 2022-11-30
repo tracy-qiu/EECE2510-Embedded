@@ -1,0 +1,3 @@
+C:/Users/evajq/CLionProjects/Embd Lab/Lab 4/makefileA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/evajq/CLionProjects/Embd Lab/Lab 4/makefileA/cmake-build-debug/CMakeFiles/makefileA.dir
+C:/Users/evajq/CLionProjects/Embd Lab/Lab 4/makefileA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
